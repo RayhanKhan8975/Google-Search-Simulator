@@ -1,0 +1,11 @@
+
+		p,h1,label,select,input ,input[type="text" i] 
+        {
+			font-size: larger;
+			font-family: Arial;
+		}
+		div{padding: 3px 0px;font-family: Arial;}
+		select
+        {
+			width: 249px;
+		}
